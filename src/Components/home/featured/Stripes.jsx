@@ -35,7 +35,7 @@ class Stripes extends Component {
         key={i}
         show={true}
         start={{
-          background: "#ffffff",
+          background: "#98c5e9",
           opacity: 0,
           left: 0,
           rotate: 0,
